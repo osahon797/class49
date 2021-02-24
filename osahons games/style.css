@@ -1,0 +1,16 @@
+h1{
+    color:blueviolet
+}
+
+.images{
+display:flex;
+justify-content:center;
+flex-wrap: wrap;
+
+}
+
+.socials{
+display:flex;
+justify-content:flex-end
+
+}
